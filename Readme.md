@@ -184,9 +184,7 @@
 
 - isDragging を false に設定し、ドラッグが終了したことを示します。
 
-<h3>document.removeEventListener "mousemove", onMouseMove及び</h3>
-   
-<h3>document.removeEventListener "mouseup", onMouseUp<h3>
+<h3>document.removeEventListener "mousemove", onMouseMove及びdocument.removeEventListener "mouseup", onMouseUp<h3>
 
 <h4>ドラッグが終了したので、documentに追加したmousemoveとmouseupイベントリスナーを削除します。</h4>
 
