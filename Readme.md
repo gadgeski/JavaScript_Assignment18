@@ -186,7 +186,9 @@
 
 <h3>document.removeEventListener "mousemove", onMouseMove及び</h3>
    
-<h3>document.removeEventListener "mouseup", onMouseUp<h3> ドラッグが終了したので、documentに追加したmousemoveとmouseupイベントリスナーを削除します。
+<h3>document.removeEventListener "mouseup", onMouseUp<h3>
+
+<h4>ドラッグが終了したので、documentに追加したmousemoveとmouseupイベントリスナーを削除します。</h4>
 
 <h4>これにより、不要なイベント処理がバックグラウンドで実行され続けるのを防ぎ、パフォーマンスを向上させます。</h4>
 
